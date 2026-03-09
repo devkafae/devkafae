@@ -1,20 +1,13 @@
-developer from hk
-does random shit for run ig
+## Hi 👋
+Andy, or kafae, student from Hong Kong 🇭🇰<br>
+Used to work on minecraft mods via kotlin/java<br>
+Currently working on a game engine using C<br>
 
-### languages 📝
-- kotlin 🏝️
-- java ☕️
-- python 🐍
-- c++ (learning) 🌊
+## Stuff i know 📚
+- Java, Kotlin, Python, C
+- Bukkit/Fabric API for Minecraft development
 
-@ [naptify ☁️](https://github.com/naptify)
-
-<!--
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Don't+love+your+job;Job+your+love&center=true&size=20" alt="Typing Animation" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=qkafae&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
-</p>
--->
+## Random Info 💩
+- Tea > Coffee
+- F1 enjoyer
+- Like to do random fun stuff
